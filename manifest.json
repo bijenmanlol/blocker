@@ -1,0 +1,21 @@
+{
+"name": "blocker",
+"version": "1.2.2",
+"manifest_version": 3,
+"permissions":[
+"activeTab"
+],
+
+"content_scripts": [
+{
+   "matches": ["https://lyceumgent.smartschool.be/*"],
+   "js": ["content.js"],
+   "css": ["content.css"]
+   },
+   {
+   "matches": ["https://daltonlyceum.noteble.be/*"],
+   "js": ["content1.js"],
+   "css": ["content.css"]
+   }
+]
+}
