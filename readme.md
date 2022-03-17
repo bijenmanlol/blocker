@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/85669046/158807494-71d1e013-f44b-4fb4-97ea-6959ad5254f1.png)
-# BLOCKER
+<h1><img src="https://user-images.githubusercontent.com/85669046/158807742-cd3fe46e-d913-4f09-ad67-96cbfc10a42c.png">BLOCKER</h1>
 
 This is an extension for chrome to block all **smartschool.com** websites.
 
