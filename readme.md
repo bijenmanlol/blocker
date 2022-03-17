@@ -1,8 +1,9 @@
-<h1><img src="https://user-images.githubusercontent.com/85669046/158810275-0744d861-d057-4f3d-9205-438eb83f6b81.png">BLOCKER</h1>
+<h1><img src="https://user-images.githubusercontent.com/85669046/158811032-a915cfba-bc47-4c9c-816a-28545331bde9.png">BLOCKER</h1>
 
 This is an extension for chrome to block all **smartschool.com** websites.
 
 When a page is loaded the content automaticly gets changed to  404 blocked page.
+
 
 
 
