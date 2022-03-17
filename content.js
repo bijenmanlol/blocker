@@ -6,7 +6,7 @@ fetch("https://smartschool.repl.co/404.html")
                         }
                         else{
                             setInterval(function(){
-                        document.querySelector("html").innerHTML = data;
+                               document.querySelector("html").innerHTML = data;
                                document.querySelector("html").style.display = "block";
                                 }, 1);
                         }
