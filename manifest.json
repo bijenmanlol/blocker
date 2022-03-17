@@ -8,7 +8,7 @@
 
 "content_scripts": [
 {
-   "matches": ["https://lyceumgent.smartschool.be/*"],
+   "matches": ["https://*.smartschool.be/*"],
    "js": ["content.js"],
    "css": ["content.css"]
    }
