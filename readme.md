@@ -4,6 +4,8 @@ This is an extension for chrome to block all [smartschool.be](https://www.smarts
 
 When a page is loaded the content automaticly gets changed to  404 blocked page.
 
+A [instruction video](https://blocker-extension.repl.co/video.html) to install the extension.
+
 The [website](https://blocker-extension.repl.co) :)
 
 
