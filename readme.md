@@ -1,4 +1,4 @@
-<h1><img src="https://user-images.githubusercontent.com/85669046/158811032-a915cfba-bc47-4c9c-816a-28545331bde9.png">&nbsp; BLOCKER &nbsp;<img src="https://user-images.githubusercontent.com/85669046/158811032-a915cfba-bc47-4c9c-816a-28545331bde9.png"></h1>
+<h1><img src="https://user-images.githubusercontent.com/85669046/160347261-341fc031-9e8a-4c63-a476-1d2e530b6eed.png">&nbsp; BLOCKER &nbsp;<img src="https://user-images.githubusercontent.com/85669046/160347261-341fc031-9e8a-4c63-a476-1d2e530b6eed.png"></h1>
 
 This is an extension for chrome to block all [smartschool.be](https://www.smartschool.be) websites.
 
