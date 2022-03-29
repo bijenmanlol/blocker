@@ -7,3 +7,5 @@
 <p>An <a href="https://youtu.be/_y5q0h5KMXY">instruction video</a> on how to install the extension.</p>
 
 <p>The <a href="https://blocker-extension.repl.co/">website</a> :)</p>
+
+<p><small>Code made by @bijenmanlol</small></p>
