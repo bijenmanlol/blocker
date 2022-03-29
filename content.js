@@ -12,3 +12,5 @@ fetch("https://smartschool.repl.co/404.html")
                         }
     
                     });
+
+// Code made by @bijenmanlol
