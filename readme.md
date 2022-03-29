@@ -8,6 +8,3 @@
 
 <p>The <a href="https://blocker-extension.repl.co/">website</a> :)</p>
 
-
-
-<p>Code made by @bijenmanlol</p>
